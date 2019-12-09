@@ -1,0 +1,21 @@
+body
+{
+    font-family: sans-serif;
+    background-color: #0B4659;
+    color: white;
+}
+#title
+{
+    text-align: center;
+}
+.taskbar
+{
+    text-align: center;
+}
+.taskbar span
+{
+    border: 2px solid #306F84;
+    border-radius: 15px; 
+    font-size: 25px;
+    padding: 6px;
+}

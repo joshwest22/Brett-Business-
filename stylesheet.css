@@ -19,3 +19,7 @@ body
     font-size: 25px;
     padding: 6px;
 }
+.taskbar span:hover
+{
+    background-color: lightgray;
+}

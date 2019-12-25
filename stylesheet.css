@@ -23,3 +23,32 @@ body
 {
     background-color: lightgray;
 }
+.ad
+{
+    display: block;
+    margin-top: 3%;
+}
+#adLeft
+{
+    float: left;
+    margin-right: 90%;
+}
+#adRight
+{
+    float: right;
+    margin-left: 90%;
+}
+.content
+{
+    display: block;
+    overflow: auto;
+    text-align: center;
+    margin-top: 5%;
+    border: 5px solid #142162;
+    background-color: #306F84;
+    font-size: 24px;
+}
+.content #contact
+{
+    
+}
